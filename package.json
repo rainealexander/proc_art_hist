@@ -8,7 +8,8 @@
   "dependencies": {
     "@slidev/cli": "^0.20.4",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.12.2"
   },
   "name": "proc_art_hist"
 }
